@@ -250,7 +250,7 @@ O exercício original foi utilizado como ponto de partida para uma implementaç�
 
 Este projeto foi desenvolvido a partir dos conhecimentos e desafios propostos na **Imersão ONE — Agentes de IA para Negócios**, promovida pela **Oracle Next Education (ONE) em parceria com a Alura**.
 
-Meu agradecimento a **Amanda Gelembauskas (Latam Head of Oracle Next Education)**, aos instrutores, **Guilherme Lima**, **Lucas Ribeiro Mata**, **Agnes Ruescas** e **Oscar Guillermo Richieri Meyer**, aos especialistas e equipes da **Oracle** e da **Alura** pela iniciativa, pelo conteúdo compartilhado e pela oportunidade de explorar, na prática, a aplicação de agentes de Inteligência Artificial em problemas reais de negócio.
+Meu agradecimento a **Amanda Gelembauskas (Latam Head of Oracle Next Education)**, aos instrutores, **Christian Velasco (Diretor da Alura Latam)**, **Eric Oliveira (Supervisor de conteúdo na Alura Latam)**, e **Leon Kulikoswki (Senior Solution Engineering Manager na Oracle)**, aos especialistas e equipes da **Oracle** e da **Alura** pela iniciativa, pelo conteúdo compartilhado e pela oportunidade de explorar, na prática, a aplicação de agentes de Inteligência Artificial em problemas reais de negócio.
 
 O **ARI NEWS V2** nasceu a partir do exercício apresentado durante a Imersão e foi posteriormente expandido e estruturado como projeto de portfólio, incorporando validação de fontes, rastreabilidade de URLs, testes de regressão, documentação técnica e uma arquitetura orientada à inteligência estratégica.
 
